@@ -1,0 +1,19 @@
+{
+  "name": "waste",
+  "version": "1.0.0",
+  "description": "hackInverse",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikrai101/HackInverse.git"
+  },
+  "author": "KartikJatinKamal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartikrai101/HackInverse/issues"
+  },
+  "homepage": "https://github.com/kartikrai101/HackInverse#readme"
+}
