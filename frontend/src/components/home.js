@@ -121,41 +121,6 @@ const home = (props) => {
                 </div>
             </div>
 
-
-            <div className="home-page-section-4">
-                <div className="home-page-section-3-header">
-                    Our Team
-                </div>
-                <div>
-                    <hr className="home-page-section-2-line"></hr>
-                </div>
-                <div className="home-page-section-4-content-container">
-                    <div className="home-page-section-4-content-1">
-                        <div><img className="team-member-image" alt="teamMemberImage" src="https://res.cloudinary.com/kartik09/image/upload/v1664263773/waste-management/jatin_znpz3t.jpg" /></div>
-                        <div className="team-member-name">Jatin Khandelwal</div>
-                        <div className="team-member-description">Backend Developer</div>
-                    </div>
-
-                    <div className="home-page-section-4-content-1">
-                        <div><img className="team-member-image" alt="teamMemberImage" src="https://res.cloudinary.com/kartik09/image/upload/v1664264113/waste-management/kamal_ikbxwd.jpg" /></div>
-                        <div className="team-member-name">Kamal Karatia</div>
-                        <div className="team-member-description">Backend Developer</div>
-                    </div>
-
-                    <div className="home-page-section-4-content-1">
-                        <div><img className="team-member-image" alt="teamMemberImage" src="https://res.cloudinary.com/kartik09/image/upload/v1664264830/waste-management/radhika2_hwtxli.jpg" /></div>
-                        <div className="team-member-name">Radhika Khetan</div>
-                        <div className="team-member-description">UI/UX Designer</div>
-                    </div>
-
-                    <div className="home-page-section-4-content-1">
-                        <div><img className="team-member-image" alt="teamMemberImage" src="https://res.cloudinary.com/kartik09/image/upload/v1664264358/waste-management/kartik_i71prw.jpg" /></div>
-                        <div className="team-member-name">Kartik Rai</div>
-                        <div className="team-member-description">Frontend Developer</div>
-                    </div>
-                </div>
-            </div>
-
             <div className="footer">
                 <div className="footer-left">
                     <div className="footer-left-upper"> 
